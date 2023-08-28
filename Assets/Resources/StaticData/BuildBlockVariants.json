@@ -1,0 +1,6 @@
+{
+  "Items": [
+    "BuildBlocks/BuildBlockCube",
+    "BuildBlocks/BuildBlockSphere"
+  ]
+}

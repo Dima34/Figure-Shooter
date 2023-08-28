@@ -1,0 +1,6 @@
+{
+  "HorizontalHeadRotationSpeed" : 40,
+  "VerticalHeadRotationSpeed" : 40,
+  "BulletSpeed" : 20,
+  "BulletLifeTime" : 5
+}

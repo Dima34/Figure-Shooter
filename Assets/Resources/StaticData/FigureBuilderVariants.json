@@ -1,0 +1,8 @@
+{
+  "Items": [
+    "FigureBuilders/SphereFigureBuilder",
+    "FigureBuilders/SquareFigureBuilder",
+    "FigureBuilders/RectangleFigureBuilder",
+    "FigureBuilders/PyramidFigureBuilder"
+  ]
+}

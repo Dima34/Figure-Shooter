@@ -1,0 +1,30 @@
+{
+  "Items": [
+    {
+      "LevelName": "Initial",
+      "PlayerStartPosition": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "WorldSpawnPosition": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    },
+    {
+      "LevelName": "Game",
+      "PlayerStartPosition": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0
+      },
+      "WorldSpawnPosition": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    }
+  ]
+}
